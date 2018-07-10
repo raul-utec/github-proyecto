@@ -31,4 +31,5 @@ def contar_vocales(x):
     print("u=",len(u))
 
 contar_vocales(cad)
+print("Acabo el programa")
 
